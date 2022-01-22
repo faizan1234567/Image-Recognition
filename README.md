@@ -1,8 +1,6 @@
 # Image-Recognition
 This repository contains code for image classification of images, this repo uses TensorFlow and python. 
-# Image-Recognition
-This repository contains code for image classification of images, this repo uses TensorFlow and python.
- 
+
 It's easier for humans to recognize images, different objects, what's in the image. However, it's not that simple for computers. A computer does not understand images, drawings,s, etc, in fact, it understands numbers. Therefore, each image represents arrays of numbers called [pixelsl](https://en.wikipedia.org/wiki/Pixel). 
 
 AI has brought change, with using AI computers can recognize what's in the image, differnt classes of an image. Thanks to AI, computers are good at computer vision, natural language processing, speech recognition, product recommendation, etc.

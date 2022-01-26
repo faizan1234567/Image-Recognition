@@ -1,0 +1,2 @@
+This folder contains Emnist hand written digits recognition using deep learning. There are 10 classes from 0 to 9. The dataset consists of 60000 training and 10000 test images. 
+A custom made CNN was trained on this dataset.
